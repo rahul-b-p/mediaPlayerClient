@@ -1,0 +1,16 @@
+*{
+  font-family: "Teachers", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+@media(max-width:992px){
+  h3{
+    font-size: 10px;
+  }
+}
+
+@media(max-width:600px){
+ #h{
+  display: none;
+ }
+}
